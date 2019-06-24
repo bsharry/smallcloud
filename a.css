@@ -1,0 +1,14 @@
+
+.box{
+    background-color: #e2e2e2;
+    padding: 15px;
+    border: 1px #dcdcdc solid;
+}
+
+.row{
+    padding-top: 15px;
+}
+
+.b{
+    text-align: right;
+}
